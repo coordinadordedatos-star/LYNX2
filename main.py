@@ -12,7 +12,7 @@ from risk_manager import LynxRiskEngine # Nuevo Módulo
 
 # --- CONFIGURACIÓN ---
 TELEGRAM_TOKEN = "8552850614:AAEX3r6YO6SVnFRM30VjefPQ2uYRBslgW-c" 
-TELEGRAM_CHAT_ID = "664346205" 
+TELEGRAM_CHAT_ID = "2019538191" 
 
 # Configuración de Zona Horaria (Eastern Time)
 TZ_NY = pytz.timezone('US/Eastern')
